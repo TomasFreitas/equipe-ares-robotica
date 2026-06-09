@@ -33,9 +33,9 @@ Este repositório contém o código-fonte do site da **Equipe Ares**, time de ro
 | Nome | GitHub | Papel no Projeto |
 |---|---|---|
 | Tomás Soares de Freitas | @TomasFreitas | Estrutura principal, `index.html`, `README.md` |
-| Odalves Alves | @usuario | Seção de Equipe, `equipe.html` |
-| Marcos Antônio | @usuario | Seção de Conquistas, `conquistas.html` |
-| Laerte Parnaíba| @usuario | Página da história,`sobre.html` |
+| Pedro Odalves Ferreira Alves Lima | @pedroodalves | Seção de Equipe, `equipe.html` |
+| Marcos Antônio Xavier Lopes | @marcosAxl | Seção de Conquistas, `conquistas.html` |
+| Laerte Parnaíba Soares | @LaerteParnaiba | Página da história,`sobre.html` |
 
 ---
 
