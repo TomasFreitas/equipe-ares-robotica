@@ -32,10 +32,10 @@ Este repositório contém o código-fonte do site da **Equipe Ares**, time de ro
 
 | Nome | GitHub | Papel no Projeto |
 |---|---|---|
-| Tomás Soares de Freitas | @[usuario] | Estrutura principal, `index.html`, `README.md` |
-| Odalves | @[usuario] | `sobre.html` — seção de tecnologias + galeria em `equipe.html` |
-| Marquinho | @[usuario] | `conquistas.html` — contador animado de títulos |
-| Laerte | @[usuario] | `equipe.html` — bio do Jeffersson Kauan |
+| Tomás Soares de Freitas | @TomasFreitas | Estrutura principal, `index.html`, `README.md` |
+| Odalves Alves | @usuario | Seção de Equipe, `equipe.html` |
+| Marcos Antônio | @usuario | Seção de Conquistas, `conquistas.html` |
+| Laerte Parnaíba| @usuario | Página da história,`sobre.html` |
 
 ---
 
