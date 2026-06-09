@@ -524,6 +524,44 @@ ul { list-style: none; }
   color: var(--muted);
   line-height: 1.6;
 }
+.trainer-card {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  padding: 0;
+  overflow: hidden;
+}
+.trainer-card img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+}
+.trainer-info { padding: 2rem 2rem 2rem 0; }
+.trainer-info h3 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  color: var(--white);
+  letter-spacing: 0.03em;
+  margin-bottom: 0.25rem;
+}
+.trainer-info .role {
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--red);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.trainer-info p { color: var(--muted); font-size: 0.95rem; line-height: 1.7; }
+@media (max-width: 640px) {
+.trainer-card { grid-template-columns: 1fr; }
+.trainer-card img { height: 280px; width: 100%; }
+.trainer-info { padding: 1.5rem; }
+}
 
 /* ── CONTATO (index) ── */
 .contato-strip {
