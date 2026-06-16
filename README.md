@@ -36,6 +36,7 @@ Este repositório contém o código-fonte do site da **Equipe Ares**, time de ro
 | Pedro Odalves Ferreira Alves Lima | @pedroodalves | Seção de Equipe, `equipe.html` |
 | Marcos Antônio Xavier Lopes | @marcosAxl | Seção de Conquistas, `conquistas.html` |
 | Laerte Parnaíba Soares | @LaerteParnaiba | Página da história,`sobre.html` |
+| Nick Brayan Costa Fernandes | @brayannick | Edições na estilização, `conquistas.html` |
 
 ---
 
